@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-ENTRY = "The hawk's shadow passes. The sparrow stays a long moment, then shakes, head to tail, like rain leaving a wing. Then it preens. Then it sings the same three notes as before, and the wire holds."
+ENTRY = "You sit on the back step. Inside, the phone you didn't answer still sits where you left it. A dog finishes barking somewhere, and the quiet after it is wide. The road keeps the day's warmth. Nothing needs you yet. You watch the first star come out, right on time."
 
 OUTPUT = Path("/output/entry.txt")
 
